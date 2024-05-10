@@ -1,0 +1,14 @@
+{
+    "card1Heading" : "Card 1",
+    "card": [
+        {
+            "cardTitle": "card 1"
+        },
+        {
+            "cardTitle": "card 1"
+        },
+        {
+            "cardTitle": "card 1"
+        }
+    ]
+}

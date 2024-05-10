@@ -1,0 +1,12 @@
+.footer_part{
+    text-align: center;
+    background-color: #000;
+    font-size: 30px;
+    /* position: fixed; */
+    width: 100%;
+    bottom: 0;
+    float: left;
+}
+.footer_part p{
+    color: #fff;
+}
